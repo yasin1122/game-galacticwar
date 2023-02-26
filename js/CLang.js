@@ -1,0 +1,17 @@
+TEXT_GAMEOVER  = "GAME OVER";
+TEXT_SCORE     = "SCORE";
+TEXT_PLAY      = "PLAY";
+TEXT_HELP1     = "USE ARROW BUTTONS TO MOVE THE STARSHIP";
+TEXT_HELP2     = "CLICK SPACEBAR TO SHOOT!!";
+TEXT_HELP1_MOBILE     = "USE ARROW BUTTONS TO MOVE THE STARSHIP";
+TEXT_HELP2_MOBILE     = "CLICK THE SHOOT BUTTON TO SHOOT!!";
+TEXT_SHOOT     = "SHOOT";
+var TEXT_DEVELOPED = "developed by";
+var TEXT_PRELOADER_CONTINUE = "START";
+
+TEXT_SHARE_IMAGE = "200x200.jpg";
+TEXT_SHARE_TITLE = "Congratulations!";
+TEXT_SHARE_MSG1 = "You collected <strong>";
+TEXT_SHARE_MSG2 = " points</strong>!<br><br>Share your score with your friends!";
+TEXT_SHARE_SHARE1 = "My score is ";
+TEXT_SHARE_SHARE2 = " points! Can you do better?";
